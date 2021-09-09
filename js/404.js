@@ -22,7 +22,7 @@ var particles = {
             },
             animation: {
                 enable: true,
-                speed: 1,
+                speed: 5,
                 minimumValue: 0,
                 sync: false
             }
@@ -36,7 +36,7 @@ var particles = {
         },
         move: {
             enable: true,
-            speed: 0.50,
+            speed: 1,
             direction: "none",
             random: true,
             straight: false,
