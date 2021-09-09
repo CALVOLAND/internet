@@ -36,7 +36,7 @@ var particles = {
         },
         move: {
             enable: true,
-            speed: 0.17,
+            speed: 0.50,
             direction: "none",
             random: true,
             straight: false,
